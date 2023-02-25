@@ -5,5 +5,6 @@ Programa para implementar los operadores aritméticos en Python
 
 ### Digrama de flujo
 
-![diagrama de flujo](diagram.png "Diagrama de flujo")
+![diagrama de flujo](diagrama.png "Diagrama de flujo")
+
 
